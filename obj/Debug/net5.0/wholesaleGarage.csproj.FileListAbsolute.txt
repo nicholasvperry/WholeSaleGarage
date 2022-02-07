@@ -1,0 +1,16 @@
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\wholesaleGarage.exe
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\wholesaleGarage.deps.json
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\wholesaleGarage.runtimeconfig.json
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\wholesaleGarage.runtimeconfig.dev.json
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\wholesaleGarage.dll
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\ref\wholesaleGarage.dll
+D:\workspace\backend\csharp\book1\wholesaleGarage\bin\Debug\net5.0\wholesaleGarage.pdb
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.csproj.AssemblyReference.cache
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.AssemblyInfoInputs.cache
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.AssemblyInfo.cs
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.csproj.CoreCompileInputs.cache
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.dll
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\ref\wholesaleGarage.dll
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.pdb
+D:\workspace\backend\csharp\book1\wholesaleGarage\obj\Debug\net5.0\wholesaleGarage.genruntimeconfig.cache
